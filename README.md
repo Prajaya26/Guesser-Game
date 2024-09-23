@@ -6,7 +6,7 @@ How to Play
 The computer will randomly select a number from a predefined range (e.g., 1 to 100).
 The player will have three chances to guess the number.
 After each guess, the computer will respond with:
-"Guess Higher" if the guessed number is lower than the target.
+"Guess Higher" if the guessed number is lower than the target. 
 "Guess Lower" if the guessed number is higher than the target.
 If the player guesses the number correctly, they win the game. Otherwise, after three incorrect guesses, the player loses, and the correct number will be revealed.
 Java Concepts Used
